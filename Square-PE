@@ -1,0 +1,4 @@
+Type: Square 
+Connectivity: Left-Right, Up-Down
+Throughput: single
+Direction: exclusive
