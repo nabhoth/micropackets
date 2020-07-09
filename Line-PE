@@ -1,3 +1,4 @@
 Type: Line 
 Connectivity: Left-Right
 Throughput: single
+Direction: exclusive
