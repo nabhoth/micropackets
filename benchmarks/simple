@@ -1,0 +1,3 @@
+a+b+c+d*a = z
+a+b+(c+e)+(a*d) = z
+a+(b*(c+d)+a)-b = z
