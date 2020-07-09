@@ -1,0 +1,4 @@
+Type: Line 
+Connectivity: Left-Right, Up-Down
+Throughput: double
+Direction: exclusive
