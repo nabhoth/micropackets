@@ -1,0 +1,4 @@
+Type: Hexagon
+Connectivity: Left-Right, LeftUp-RightDown, RightUp-LeftDown
+Throughput: single
+Direction: exclusive
